@@ -2,9 +2,7 @@
 
 ## A sleek and responsive web application built with React to fetch and display current weather information for any city worldwide.
 
-![Weather App Screenshot - Mobile View](![adadadaad](https://github.com/user-attachments/assets/8d476fd7-f439-4528-bfe7-566eb96c2020)
-)
-)
+![adadadaad](https://github.com/user-attachments/assets/8d476fd7-f439-4528-bfe7-566eb96c2020)
 
 ---
 
