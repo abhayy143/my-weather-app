@@ -1,4 +1,4 @@
-![adadadaad](https://github.com/user-attachments/assets/8ddf79df-6bf2-4fa8-85d7-ce87a76b5645)# ☀️ Modern React Weather App
+# ☀️ Modern React Weather App
 
 ## A sleek and responsive web application built with React to fetch and display current weather information for any city worldwide.
 
